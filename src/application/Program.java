@@ -14,6 +14,7 @@ public class Program {
 		int l = sc.nextInt();
 		int c = sc.nextInt();
 		
+		
 		int[][] matriz = new int[l][c];
 		
 		
